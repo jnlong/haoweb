@@ -1,5 +1,5 @@
 /**
- * @require bigpipe.js
+ * @require home:static/lib/bigpipe.js
  *
  * 使用方式
  */

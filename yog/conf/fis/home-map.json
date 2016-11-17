@@ -1,0 +1,244 @@
+{
+    "res": {
+        "home:page/doc/nodejs/index.tpl": {
+            "uri": "home/page/doc/nodejs/index.tpl",
+            "type": "tpl",
+            "extras": {
+                "isPage": true
+            },
+            "subpath": "/views/home/page/doc/nodejs/index.tpl"
+        },
+        "home:page/index.tpl": {
+            "uri": "home/page/index.tpl",
+            "type": "tpl",
+            "extras": {
+                "isPage": true
+            },
+            "deps": [
+                "home:widget/fenlei/fenlei.js"
+            ],
+            "subpath": "/views/home/page/index.tpl"
+        },
+        "home:page/layout.tpl": {
+            "uri": "home/page/layout.tpl",
+            "type": "tpl",
+            "extras": {
+                "isPage": true
+            },
+            "subpath": "/views/home/page/layout.tpl"
+        },
+        "home:page/tpl/colorBlock.tpl": {
+            "uri": "home/page/tpl/colorBlock.tpl",
+            "type": "tpl",
+            "extras": {
+                "isPage": true
+            },
+            "subpath": "/views/home/page/tpl/colorBlock.tpl"
+        },
+        "home:page/tpl/mz.tpl": {
+            "uri": "home/page/tpl/mz.tpl",
+            "type": "tpl",
+            "extras": {
+                "isPage": true
+            },
+            "subpath": "/views/home/page/tpl/mz.tpl"
+        },
+        "home:page/tpl/news.tpl": {
+            "uri": "home/page/tpl/news.tpl",
+            "type": "tpl",
+            "extras": {
+                "isPage": true
+            },
+            "subpath": "/views/home/page/tpl/news.tpl"
+        },
+        "home:static/css/base/comm.css": {
+            "uri": "/static/home/static/css/base/comm.css",
+            "type": "css",
+            "subpath": "/static/home/static/css/base/comm.css"
+        },
+        "home:static/css/base/icon.less": {
+            "uri": "/static/home/static/css/base/icon.css",
+            "type": "css",
+            "subpath": "/static/home/static/css/base/icon.css"
+        },
+        "home:static/css/base/reset.less": {
+            "uri": "/static/home/static/css/base/reset.css",
+            "type": "css",
+            "subpath": "/static/home/static/css/base/reset.css"
+        },
+        "home:static/css/index.less": {
+            "uri": "/static/home/static/css/index.css",
+            "type": "css",
+            "subpath": "/static/home/static/css/index.css"
+        },
+        "home:static/doc/nodejs/index_0_main.css": {
+            "uri": "/static/home/static/doc/nodejs/index_0_main.css",
+            "type": "css",
+            "subpath": "/static/home/static/doc/nodejs/index_0_main.css"
+        },
+        "home:static/doc/nodejs/index_1_main.js": {
+            "uri": "/static/home/static/doc/nodejs/index_1_main.js",
+            "type": "js",
+            "subpath": "/static/home/static/doc/nodejs/index_1_main.js"
+        },
+        "home:static/doc/nodejs/node_0_compat-30ce4c86c27f88c3d1b4eb03efda59b45d8d7c871880dee0b8f73d5ef1b25fdf.js": {
+            "uri": "/static/home/static/doc/nodejs/node_0_compat-30ce4c86c27f88c3d1b4eb03efda59b45d8d7c871880dee0b8f73d5ef1b25fdf.js",
+            "type": "js",
+            "deps": [
+                "compat-bootstrap"
+            ],
+            "subpath": "/static/home/static/doc/nodejs/node_0_compat-30ce4c86c27f88c3d1b4eb03efda59b45d8d7c871880dee0b8f73d5ef1b25fdf.js"
+        },
+        "home:static/doc/nodejs/node_0_frameworks-31e369ccd2b23a1eccde83f03ef36eafff1f7b9025f6042ccac33a7915753de2.css": {
+            "uri": "/static/home/static/doc/nodejs/node_0_frameworks-31e369ccd2b23a1eccde83f03ef36eafff1f7b9025f6042ccac33a7915753de2.css",
+            "type": "css",
+            "subpath": "/static/home/static/doc/nodejs/node_0_frameworks-31e369ccd2b23a1eccde83f03ef36eafff1f7b9025f6042ccac33a7915753de2.css"
+        },
+        "home:static/doc/nodejs/node_1_frameworks-0cc47c707b16fb94cbac71d1e2f5f211bea3223efecaefa9248630a422a4a899.js": {
+            "uri": "/static/home/static/doc/nodejs/node_1_frameworks-0cc47c707b16fb94cbac71d1e2f5f211bea3223efecaefa9248630a422a4a899.js",
+            "type": "js",
+            "deps": [
+                "frameworks-bootstrap"
+            ],
+            "subpath": "/static/home/static/doc/nodejs/node_1_frameworks-0cc47c707b16fb94cbac71d1e2f5f211bea3223efecaefa9248630a422a4a899.js"
+        },
+        "home:static/doc/nodejs/node_1_github-f52c8c687f8b759e77e94e3641edb1c5f49d6e8e0738ef162a66361316566cff.css": {
+            "uri": "/static/home/static/doc/nodejs/node_1_github-f52c8c687f8b759e77e94e3641edb1c5f49d6e8e0738ef162a66361316566cff.css",
+            "type": "css",
+            "subpath": "/static/home/static/doc/nodejs/node_1_github-f52c8c687f8b759e77e94e3641edb1c5f49d6e8e0738ef162a66361316566cff.css"
+        },
+        "home:static/doc/nodejs/node_2_github-f4e5c9fd1c83217d8e247cce6dc224770b79b5f81bdc1791ad6361a717f70a49.js": {
+            "uri": "/static/home/static/doc/nodejs/node_2_github-f4e5c9fd1c83217d8e247cce6dc224770b79b5f81bdc1791ad6361a717f70a49.js",
+            "type": "js",
+            "deps": [
+                "github/jquery",
+                "github/inspect",
+                "github/failbot",
+                "github/document-ready",
+                "github/visible",
+                "github/focused",
+                "github/throttled-input",
+                "github/sliding-promise-queue",
+                "delegated-events",
+                "github/fetch",
+                "github/observe",
+                "github/navigation",
+                "github/history",
+                "github/pjax",
+                "github/payment",
+                "github-bootstrap",
+                "github/setimmediate",
+                "github/updatable-content",
+                "github/html-validation",
+                "github/has-interactions",
+                "github/stats",
+                "github/hash-change",
+                "github/facebox",
+                "github/local-storage",
+                "github/menu",
+                "github/debounce",
+                "reconnectingwebsocket",
+                "github/suggester",
+                "github/fuzzy-filter-sort-list",
+                "github/google-analytics",
+                "github/fuzzy-filter",
+                "github/hotkey",
+                "github/blob-anchor",
+                "github/code-editor",
+                "github/preserve-position",
+                "github/dimensions",
+                "github/fragment-target",
+                "github/parse-html",
+                "github/date-input",
+                "github/sudo",
+                "github/org-sidebar-stats",
+                "github/inflector",
+                "github/number-helpers",
+                "sortablejs",
+                "github/proxy-site-detection"
+            ],
+            "subpath": "/static/home/static/doc/nodejs/node_2_github-f4e5c9fd1c83217d8e247cce6dc224770b79b5f81bdc1791ad6361a717f70a49.js"
+        },
+        "home:static/doc/nodejs/node_2_site-48a26f2c4b3f32dd9656723f5fdd558d42f6bcc5d13ba0a45ae025eabc9cd8b3.css": {
+            "uri": "/static/home/static/doc/nodejs/node_2_site-48a26f2c4b3f32dd9656723f5fdd558d42f6bcc5d13ba0a45ae025eabc9cd8b3.css",
+            "type": "css",
+            "subpath": "/static/home/static/doc/nodejs/node_2_site-48a26f2c4b3f32dd9656723f5fdd558d42f6bcc5d13ba0a45ae025eabc9cd8b3.css"
+        },
+        "home:static/js/base/comm.js": {
+            "uri": "/static/home/static/js/base/comm.js",
+            "type": "js",
+            "subpath": "/static/home/static/js/base/comm.js"
+        },
+        "home:static/js/index.js": {
+            "uri": "/static/home/static/js/index.js",
+            "type": "js",
+            "subpath": "/static/home/static/js/index.js"
+        },
+        "home:static/js/source.js": {
+            "uri": "/static/home/static/js/source.js",
+            "type": "js",
+            "subpath": "/static/home/static/js/source.js"
+        },
+        "home:static/lib/bigpipe.js": {
+            "uri": "/static/home/static/lib/bigpipe.js",
+            "type": "js",
+            "subpath": "/static/home/static/lib/bigpipe.js"
+        },
+        "home:static/lib/fx.js": {
+            "uri": "/static/home/static/lib/fx.js",
+            "type": "js",
+            "subpath": "/static/home/static/lib/fx.js"
+        },
+        "home:static/lib/lazyload.js": {
+            "uri": "/static/home/static/lib/lazyload.js",
+            "type": "js",
+            "subpath": "/static/home/static/lib/lazyload.js"
+        },
+        "home:static/lib/mod.js": {
+            "uri": "/static/home/static/lib/mod.js",
+            "type": "js",
+            "subpath": "/static/home/static/lib/mod.js"
+        },
+        "home:static/lib/page.js": {
+            "uri": "/static/home/static/lib/page.js",
+            "type": "js",
+            "deps": [
+                "home:static/lib/bigpipe.js"
+            ],
+            "subpath": "/static/home/static/lib/page.js"
+        },
+        "home:static/lib/zepto.js": {
+            "uri": "/static/home/static/lib/zepto.js",
+            "type": "js",
+            "subpath": "/static/home/static/lib/zepto.js"
+        },
+        "home:static/lib/zepto.min.js": {
+            "uri": "/static/home/static/lib/zepto.min.js",
+            "type": "js",
+            "subpath": "/static/home/static/lib/zepto.min.js"
+        },
+        "home:widget/fenlei/fenlei.js": {
+            "uri": "/static/home/widget/fenlei/fenlei.js",
+            "type": "js",
+            "deps": [
+                "home:widget/fenlei/fenlei.less"
+            ],
+            "subpath": "/static/home/widget/fenlei/fenlei.js"
+        },
+        "home:widget/fenlei/fenlei.less": {
+            "uri": "/static/home/widget/fenlei/fenlei.css",
+            "type": "css",
+            "subpath": "/static/home/widget/fenlei/fenlei.css"
+        },
+        "home:widget/fenlei/fenlei.tpl": {
+            "uri": "home/widget/fenlei/fenlei.tpl",
+            "type": "tpl",
+            "deps": [
+                "home:widget/fenlei/fenlei.js",
+                "home:widget/fenlei/fenlei.less"
+            ],
+            "subpath": "/views/home/widget/fenlei/fenlei.tpl"
+        }
+    },
+    "pkg": {}
+}
