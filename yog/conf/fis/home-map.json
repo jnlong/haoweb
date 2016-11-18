@@ -153,6 +153,14 @@
                 "home:widget/head/head.less"
             ],
             "subpath": "/views/home/widget/head/head.tpl"
+        },
+        "home:static/lib/markdown.js": {
+            "uri": "/static/home/static/lib/markdown_3b6d845.js",
+            "type": "js",
+            "deps": [
+                "util"
+            ],
+            "subpath": "/static/home/static/lib/markdown_3b6d845.js"
         }
     },
     "pkg": {
