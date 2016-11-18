@@ -1,13 +1,5 @@
 {
     "res": {
-        "home:page/doc/nodejs/index.tpl": {
-            "uri": "home/page/doc/nodejs/index.tpl",
-            "type": "tpl",
-            "extras": {
-                "isPage": true
-            },
-            "subpath": "/views/home/page/doc/nodejs/index.tpl"
-        },
         "home:page/index.tpl": {
             "uri": "home/page/index.tpl",
             "type": "tpl",
@@ -52,183 +44,92 @@
             "subpath": "/views/home/page/tpl/news.tpl"
         },
         "home:static/css/base/comm.css": {
-            "uri": "/static/home/static/css/base/comm.css",
+            "uri": "/static/home/static/css/base/comm_4b7ccd7.css",
             "type": "css",
-            "subpath": "/static/home/static/css/base/comm.css"
+            "subpath": "/static/home/static/css/base/comm_4b7ccd7.css"
         },
         "home:static/css/base/icon.less": {
-            "uri": "/static/home/static/css/base/icon.css",
+            "uri": "/static/home/static/css/base/icon_d41d8cd.css",
             "type": "css",
-            "subpath": "/static/home/static/css/base/icon.css"
+            "subpath": "/static/home/static/css/base/icon_d41d8cd.css"
         },
         "home:static/css/base/reset.less": {
-            "uri": "/static/home/static/css/base/reset.css",
+            "uri": "/static/home/static/css/base/reset_4b7ccd7.css",
             "type": "css",
-            "subpath": "/static/home/static/css/base/reset.css"
+            "subpath": "/static/home/static/css/base/reset_4b7ccd7.css"
         },
         "home:static/css/index.less": {
-            "uri": "/static/home/static/css/index.css",
+            "uri": "/static/home/static/css/index_e127836.css",
             "type": "css",
-            "subpath": "/static/home/static/css/index.css"
-        },
-        "home:static/doc/nodejs/index_0_main.css": {
-            "uri": "/static/home/static/doc/nodejs/index_0_main.css",
-            "type": "css",
-            "subpath": "/static/home/static/doc/nodejs/index_0_main.css"
-        },
-        "home:static/doc/nodejs/index_1_main.js": {
-            "uri": "/static/home/static/doc/nodejs/index_1_main.js",
-            "type": "js",
-            "subpath": "/static/home/static/doc/nodejs/index_1_main.js"
-        },
-        "home:static/doc/nodejs/node_0_compat-30ce4c86c27f88c3d1b4eb03efda59b45d8d7c871880dee0b8f73d5ef1b25fdf.js": {
-            "uri": "/static/home/static/doc/nodejs/node_0_compat-30ce4c86c27f88c3d1b4eb03efda59b45d8d7c871880dee0b8f73d5ef1b25fdf.js",
-            "type": "js",
-            "deps": [
-                "compat-bootstrap"
-            ],
-            "subpath": "/static/home/static/doc/nodejs/node_0_compat-30ce4c86c27f88c3d1b4eb03efda59b45d8d7c871880dee0b8f73d5ef1b25fdf.js"
-        },
-        "home:static/doc/nodejs/node_0_frameworks-31e369ccd2b23a1eccde83f03ef36eafff1f7b9025f6042ccac33a7915753de2.css": {
-            "uri": "/static/home/static/doc/nodejs/node_0_frameworks-31e369ccd2b23a1eccde83f03ef36eafff1f7b9025f6042ccac33a7915753de2.css",
-            "type": "css",
-            "subpath": "/static/home/static/doc/nodejs/node_0_frameworks-31e369ccd2b23a1eccde83f03ef36eafff1f7b9025f6042ccac33a7915753de2.css"
-        },
-        "home:static/doc/nodejs/node_1_frameworks-0cc47c707b16fb94cbac71d1e2f5f211bea3223efecaefa9248630a422a4a899.js": {
-            "uri": "/static/home/static/doc/nodejs/node_1_frameworks-0cc47c707b16fb94cbac71d1e2f5f211bea3223efecaefa9248630a422a4a899.js",
-            "type": "js",
-            "deps": [
-                "frameworks-bootstrap"
-            ],
-            "subpath": "/static/home/static/doc/nodejs/node_1_frameworks-0cc47c707b16fb94cbac71d1e2f5f211bea3223efecaefa9248630a422a4a899.js"
-        },
-        "home:static/doc/nodejs/node_1_github-f52c8c687f8b759e77e94e3641edb1c5f49d6e8e0738ef162a66361316566cff.css": {
-            "uri": "/static/home/static/doc/nodejs/node_1_github-f52c8c687f8b759e77e94e3641edb1c5f49d6e8e0738ef162a66361316566cff.css",
-            "type": "css",
-            "subpath": "/static/home/static/doc/nodejs/node_1_github-f52c8c687f8b759e77e94e3641edb1c5f49d6e8e0738ef162a66361316566cff.css"
-        },
-        "home:static/doc/nodejs/node_2_github-f4e5c9fd1c83217d8e247cce6dc224770b79b5f81bdc1791ad6361a717f70a49.js": {
-            "uri": "/static/home/static/doc/nodejs/node_2_github-f4e5c9fd1c83217d8e247cce6dc224770b79b5f81bdc1791ad6361a717f70a49.js",
-            "type": "js",
-            "deps": [
-                "github/jquery",
-                "github/inspect",
-                "github/failbot",
-                "github/document-ready",
-                "github/visible",
-                "github/focused",
-                "github/throttled-input",
-                "github/sliding-promise-queue",
-                "delegated-events",
-                "github/fetch",
-                "github/observe",
-                "github/navigation",
-                "github/history",
-                "github/pjax",
-                "github/payment",
-                "github-bootstrap",
-                "github/setimmediate",
-                "github/updatable-content",
-                "github/html-validation",
-                "github/has-interactions",
-                "github/stats",
-                "github/hash-change",
-                "github/facebox",
-                "github/local-storage",
-                "github/menu",
-                "github/debounce",
-                "reconnectingwebsocket",
-                "github/suggester",
-                "github/fuzzy-filter-sort-list",
-                "github/google-analytics",
-                "github/fuzzy-filter",
-                "github/hotkey",
-                "github/blob-anchor",
-                "github/code-editor",
-                "github/preserve-position",
-                "github/dimensions",
-                "github/fragment-target",
-                "github/parse-html",
-                "github/date-input",
-                "github/sudo",
-                "github/org-sidebar-stats",
-                "github/inflector",
-                "github/number-helpers",
-                "sortablejs",
-                "github/proxy-site-detection"
-            ],
-            "subpath": "/static/home/static/doc/nodejs/node_2_github-f4e5c9fd1c83217d8e247cce6dc224770b79b5f81bdc1791ad6361a717f70a49.js"
-        },
-        "home:static/doc/nodejs/node_2_site-48a26f2c4b3f32dd9656723f5fdd558d42f6bcc5d13ba0a45ae025eabc9cd8b3.css": {
-            "uri": "/static/home/static/doc/nodejs/node_2_site-48a26f2c4b3f32dd9656723f5fdd558d42f6bcc5d13ba0a45ae025eabc9cd8b3.css",
-            "type": "css",
-            "subpath": "/static/home/static/doc/nodejs/node_2_site-48a26f2c4b3f32dd9656723f5fdd558d42f6bcc5d13ba0a45ae025eabc9cd8b3.css"
+            "subpath": "/static/home/static/css/index_e127836.css"
         },
         "home:static/js/base/comm.js": {
-            "uri": "/static/home/static/js/base/comm.js",
+            "uri": "/static/home/static/js/base/comm_d41d8cd.js",
             "type": "js",
-            "subpath": "/static/home/static/js/base/comm.js"
+            "subpath": "/static/home/static/js/base/comm_d41d8cd.js"
         },
         "home:static/js/index.js": {
-            "uri": "/static/home/static/js/index.js",
+            "uri": "/static/home/static/js/index_65cd02f.js",
             "type": "js",
-            "subpath": "/static/home/static/js/index.js"
+            "subpath": "/static/home/static/js/index_65cd02f.js"
         },
         "home:static/js/source.js": {
-            "uri": "/static/home/static/js/source.js",
+            "uri": "/static/home/static/js/source_ef7c46d.js",
             "type": "js",
-            "subpath": "/static/home/static/js/source.js"
+            "subpath": "/static/home/static/js/source_ef7c46d.js"
         },
         "home:static/lib/bigpipe.js": {
-            "uri": "/static/home/static/lib/bigpipe.js",
+            "uri": "/static/home/static/lib/bigpipe_0eb787e.js",
             "type": "js",
-            "subpath": "/static/home/static/lib/bigpipe.js"
+            "subpath": "/static/home/static/lib/bigpipe_0eb787e.js"
         },
         "home:static/lib/fx.js": {
-            "uri": "/static/home/static/lib/fx.js",
+            "uri": "/static/home/static/lib/fx_1b47af7.js",
             "type": "js",
-            "subpath": "/static/home/static/lib/fx.js"
+            "subpath": "/static/home/static/lib/fx_1b47af7.js"
         },
         "home:static/lib/lazyload.js": {
-            "uri": "/static/home/static/lib/lazyload.js",
+            "uri": "/static/home/static/lib/lazyload_80d4f78.js",
             "type": "js",
-            "subpath": "/static/home/static/lib/lazyload.js"
+            "subpath": "/static/home/static/lib/lazyload_80d4f78.js"
         },
         "home:static/lib/mod.js": {
-            "uri": "/static/home/static/lib/mod.js",
+            "uri": "/static/home/static/lib/mod_75d1f98.js",
             "type": "js",
-            "subpath": "/static/home/static/lib/mod.js"
+            "subpath": "/static/home/static/lib/mod_75d1f98.js"
         },
         "home:static/lib/page.js": {
-            "uri": "/static/home/static/lib/page.js",
+            "uri": "/static/home/static/lib/page_d27dd51.js",
             "type": "js",
             "deps": [
                 "home:static/lib/bigpipe.js"
             ],
-            "subpath": "/static/home/static/lib/page.js"
+            "subpath": "/static/home/static/lib/page_d27dd51.js"
         },
         "home:static/lib/zepto.js": {
-            "uri": "/static/home/static/lib/zepto.js",
+            "uri": "/static/home/static/lib/zepto_a52cd15.js",
             "type": "js",
-            "subpath": "/static/home/static/lib/zepto.js"
+            "subpath": "/static/home/static/lib/zepto_a52cd15.js"
         },
         "home:static/lib/zepto.min.js": {
-            "uri": "/static/home/static/lib/zepto.min.js",
+            "uri": "/static/home/static/lib/zepto.min_a52cd15.js",
             "type": "js",
-            "subpath": "/static/home/static/lib/zepto.min.js"
+            "subpath": "/static/home/static/lib/zepto.min_a52cd15.js"
         },
         "home:widget/fenlei/fenlei.js": {
-            "uri": "/static/home/widget/fenlei/fenlei.js",
+            "uri": "/static/home/widget/fenlei/fenlei_1e9996c.js",
             "type": "js",
             "deps": [
                 "home:widget/fenlei/fenlei.less"
             ],
-            "subpath": "/static/home/widget/fenlei/fenlei.js"
+            "pkg": "home:p0",
+            "subpath": "/static/home/widget/fenlei/fenlei_1e9996c.js"
         },
         "home:widget/fenlei/fenlei.less": {
-            "uri": "/static/home/widget/fenlei/fenlei.css",
+            "uri": "/static/home/widget/fenlei/fenlei_d735501.css",
             "type": "css",
-            "subpath": "/static/home/widget/fenlei/fenlei.css"
+            "pkg": "home:p1",
+            "subpath": "/static/home/widget/fenlei/fenlei_d735501.css"
         },
         "home:widget/fenlei/fenlei.tpl": {
             "uri": "home/widget/fenlei/fenlei.tpl",
@@ -238,7 +139,42 @@
                 "home:widget/fenlei/fenlei.less"
             ],
             "subpath": "/views/home/widget/fenlei/fenlei.tpl"
+        },
+        "home:widget/head/head.less": {
+            "uri": "/static/home/widget/head/head_1d0436b.css",
+            "type": "css",
+            "pkg": "home:p1",
+            "subpath": "/static/home/widget/head/head_1d0436b.css"
+        },
+        "home:widget/head/head.tpl": {
+            "uri": "home/widget/head/head.tpl",
+            "type": "tpl",
+            "deps": [
+                "home:widget/head/head.less"
+            ],
+            "subpath": "/views/home/widget/head/head.tpl"
         }
     },
-    "pkg": {}
+    "pkg": {
+        "home:p0": {
+            "uri": "/static/home/widget.js",
+            "type": "js",
+            "has": [
+                "home:widget/fenlei/fenlei.js"
+            ],
+            "deps": [
+                "home:widget/fenlei/fenlei.less"
+            ],
+            "subpath": "/static/home/widget.js"
+        },
+        "home:p1": {
+            "uri": "/static/home/widget.css",
+            "type": "css",
+            "has": [
+                "home:widget/fenlei/fenlei.less",
+                "home:widget/head/head.less"
+            ],
+            "subpath": "/static/home/widget.css"
+        }
+    }
 }

@@ -33,4 +33,4 @@
     </div>
 </div>
 <!-- 声明加载less -->
-{% require "./fenlei.less?__inline" %}
+{% require "./fenlei.less" %}

@@ -6,7 +6,7 @@
      <div id="pages-container">
      </div>
     <header class="cn head">
-        <h1><img src="/static/home/static/img/logo.png" class="logo" alt=""></h1>
+        <h1><img src="/static/home/static/img/logo_bb41490.png" class="logo" alt=""></h1>
     </header>
     <nav class="nav">
         <a href="https://github.com/jnlong" class="nav-link">my github</a>
