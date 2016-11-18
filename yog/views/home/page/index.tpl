@@ -23,6 +23,10 @@
         {% widget "home:page/tpl/news.tpl" with {data = news} %}
         {% widget "home:page/tpl/mz.tpl" with {data = link} %}
     </div>
+    <script id="mzTpl" type="text/tpl">
+        {%include "home:page/tpl/mz.tpl"%}
+        <link href="home/page/tpl/mz.tpl"/>
+    </script>
     <form class="hd_search hide" id="search" name="search" action="http://m.baidu.com/s" method="get">
         <div class="sh_main_wp">
             <span class="sh_logo"></span>
