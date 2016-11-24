@@ -1,0 +1,1 @@
+<link rel="import" href="/client/page/tpl/mz.tpl?__inline">

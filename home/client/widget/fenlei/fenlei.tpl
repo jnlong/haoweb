@@ -2,7 +2,6 @@
 <div class="cn_card fenlei">
     <div class="cn_hd">
         <h2 class="title">{{ data.title }}</h2>
-        {% if tablen %}<span class="btnexpand"></span>{% endif %}
         <span class="des">{{ data.des }}</span>
         <ul class="cn_nav">
             {% for a in data.tab %}
@@ -14,7 +13,7 @@
         {% for a in data.tab %}
             <div class="cn_tab" style="width: {{ 100/tablen }}%;">
             {% for wap in a.list %}
-                    <div class="fl_show cn_fl cn_fl_4">
+                    <div class="fl_main cn_fl cn_fl_4">
                     {% set index = 0 %}
                     {% for link in wap %}                
                         {% if link.url =='' %}
@@ -23,9 +22,8 @@
                         {% if link.title !='' %}
                             {% set index = index + 1 %}
                             {% if index == 5 %}
-                                <span class="btnexpand"></span>
                                 </div>
-                                <div class="fl_hide cn_fl cn_fl_4">{% endif %}
+                                <div class="fl_des cn_fl cn_fl_4">{% endif %}
                     <a href="{{ link.url }}">{{ link.title }}</a>{% endif %}{% endfor %}
             	</div>{% endfor %}
         	</div>{% endfor %}

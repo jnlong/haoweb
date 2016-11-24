@@ -1,16 +1,5 @@
 {
     "res": {
-        "home:page/index.tpl": {
-            "uri": "home/page/index.tpl",
-            "type": "tpl",
-            "extras": {
-                "isPage": true
-            },
-            "deps": [
-                "home:widget/fenlei/fenlei.js"
-            ],
-            "subpath": "/views/home/page/index.tpl"
-        },
         "home:page/layout.tpl": {
             "uri": "home/page/layout.tpl",
             "type": "tpl",
@@ -18,6 +7,14 @@
                 "isPage": true
             },
             "subpath": "/views/home/page/layout.tpl"
+        },
+        "home:static/lib/markdown.js": {
+            "uri": "/static/home/static/lib/markdown_3b6d845.js",
+            "type": "js",
+            "deps": [
+                "util"
+            ],
+            "subpath": "/static/home/static/lib/markdown_3b6d845.js"
         },
         "home:page/tpl/colorBlock.tpl": {
             "uri": "home/page/tpl/colorBlock.tpl",
@@ -59,9 +56,9 @@
             "subpath": "/static/home/static/css/base/reset_4b7ccd7.css"
         },
         "home:static/css/index.less": {
-            "uri": "/static/home/static/css/index_e127836.css",
+            "uri": "/static/home/static/css/index_6016463.css",
             "type": "css",
-            "subpath": "/static/home/static/css/index_e127836.css"
+            "subpath": "/static/home/static/css/index_6016463.css"
         },
         "home:static/js/base/comm.js": {
             "uri": "/static/home/static/js/base/comm_d41d8cd.js",
@@ -117,19 +114,19 @@
             "subpath": "/static/home/static/lib/zepto.min_a52cd15.js"
         },
         "home:widget/fenlei/fenlei.js": {
-            "uri": "/static/home/widget/fenlei/fenlei_1e9996c.js",
+            "uri": "/static/home/widget/fenlei/fenlei_68f2182.js",
             "type": "js",
             "deps": [
                 "home:widget/fenlei/fenlei.less"
             ],
             "pkg": "home:p0",
-            "subpath": "/static/home/widget/fenlei/fenlei_1e9996c.js"
+            "subpath": "/static/home/widget/fenlei/fenlei_68f2182.js"
         },
         "home:widget/fenlei/fenlei.less": {
-            "uri": "/static/home/widget/fenlei/fenlei_d735501.css",
+            "uri": "/static/home/widget/fenlei/fenlei_b246ff5.css",
             "type": "css",
             "pkg": "home:p1",
-            "subpath": "/static/home/widget/fenlei/fenlei_d735501.css"
+            "subpath": "/static/home/widget/fenlei/fenlei_b246ff5.css"
         },
         "home:widget/fenlei/fenlei.tpl": {
             "uri": "home/widget/fenlei/fenlei.tpl",
@@ -141,10 +138,10 @@
             "subpath": "/views/home/widget/fenlei/fenlei.tpl"
         },
         "home:widget/head/head.less": {
-            "uri": "/static/home/widget/head/head_1d0436b.css",
+            "uri": "/static/home/widget/head/head_a0e210a.css",
             "type": "css",
             "pkg": "home:p1",
-            "subpath": "/static/home/widget/head/head_1d0436b.css"
+            "subpath": "/static/home/widget/head/head_a0e210a.css"
         },
         "home:widget/head/head.tpl": {
             "uri": "home/widget/head/head.tpl",
@@ -154,13 +151,74 @@
             ],
             "subpath": "/views/home/widget/head/head.tpl"
         },
-        "home:static/lib/markdown.js": {
-            "uri": "/static/home/static/lib/markdown_3b6d845.js",
-            "type": "js",
+        "home:page/index.tpl": {
+            "uri": "home/page/index.tpl",
+            "type": "tpl",
+            "extras": {
+                "isPage": true
+            },
             "deps": [
-                "util"
+                "home:widget/fenlei/fenlei.js"
             ],
-            "subpath": "/static/home/static/lib/markdown_3b6d845.js"
+            "subpath": "/views/home/page/index.tpl"
+        },
+        "home:page/tpl.tpl": {
+            "uri": "home/page/tpl.tpl",
+            "type": "tpl",
+            "extras": {
+                "isPage": true
+            },
+            "subpath": "/views/home/page/tpl.tpl"
+        },
+        "home:page/indexV1.tpl": {
+            "uri": "home/page/indexV1.tpl",
+            "type": "tpl",
+            "extras": {
+                "isPage": true
+            },
+            "subpath": "/views/home/page/indexV1.tpl"
+        },
+        "home:widget/footer/footer.less": {
+            "uri": "/static/home/widget/footer/footer_160243b.css",
+            "type": "css",
+            "pkg": "home:p1",
+            "subpath": "/static/home/widget/footer/footer_160243b.css"
+        },
+        "home:widget/footer/footer.tpl": {
+            "uri": "home/widget/footer/footer.tpl",
+            "type": "tpl",
+            "deps": [
+                "home:widget/footer/footer.less"
+            ],
+            "subpath": "/views/home/widget/footer/footer.tpl"
+        },
+        "home:widget/search/search.less": {
+            "uri": "/static/home/widget/search/search_36659b2.css",
+            "type": "css",
+            "pkg": "home:p1",
+            "subpath": "/static/home/widget/search/search_36659b2.css"
+        },
+        "home:widget/search/search.tpl": {
+            "uri": "home/widget/search/search.tpl",
+            "type": "tpl",
+            "deps": [
+                "home:widget/search/search.less"
+            ],
+            "subpath": "/views/home/widget/search/search.tpl"
+        },
+        "home:widget/ad/ad.less": {
+            "uri": "/static/home/widget/ad/ad_8df2dc0.css",
+            "type": "css",
+            "pkg": "home:p1",
+            "subpath": "/static/home/widget/ad/ad_8df2dc0.css"
+        },
+        "home:widget/ad/ad.tpl": {
+            "uri": "home/widget/ad/ad.tpl",
+            "type": "tpl",
+            "deps": [
+                "home:widget/ad/ad.less"
+            ],
+            "subpath": "/views/home/widget/ad/ad.tpl"
         }
     },
     "pkg": {
@@ -180,7 +238,10 @@
             "type": "css",
             "has": [
                 "home:widget/fenlei/fenlei.less",
-                "home:widget/head/head.less"
+                "home:widget/head/head.less",
+                "home:widget/footer/footer.less",
+                "home:widget/search/search.less",
+                "home:widget/ad/ad.less"
             ],
             "subpath": "/static/home/widget.css"
         }
