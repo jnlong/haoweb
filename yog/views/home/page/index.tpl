@@ -21,5 +21,13 @@
     {%require "home:static/js/index.js"%}
     {% script %}
         require("home:widget/fenlei/fenlei.js").init();
+        /*$.ajax({
+            url: '/api/fenlei',
+            dataType: 'json',
+            success: function(res){
+                console.log(res);
+            }
+        });*/
     {% endscript %}
+
 {% require "home:page/index.tpl" %}{%endblock%}

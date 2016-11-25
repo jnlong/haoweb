@@ -15,6 +15,7 @@
   "license": "BSD",
   "dependencies": {
     "debuglog": "1.0.1",
+    "request-ip": "^1.2.3",
     "yog2-kernel": "1.7.1"
   }
 }
