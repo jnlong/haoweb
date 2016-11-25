@@ -288,10 +288,10 @@ function getFenlei(type) {
         data.des = '持续更新中，欢迎推荐...';
         list = [
             [
-                { url: 'http://www.nodejs.net/', title: '官网' },
+                { url: 'http://nodejs.cn/api/', title: 'API' },
                 { url: 'https://cnodejs.org/', title: 'cnodejs' },
-                { url: 'http://nodeapi.ucdok.com/', title: 'nodeapi' },
-                { url: 'http://nodejs.cn/api/', title: 'nodejs.cn' },
+                // { url: 'http://www.nodejs.net/', title: '官网' },
+                // { url: 'http://nodeapi.ucdok.com/', title: 'nodeapi' },
                 { url: '', title: '' },
                 { url: '', title: '' },
                 { url: '', title: '' },
