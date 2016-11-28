@@ -1,0 +1,902 @@
+[{
+    url: "http://www.w3.org/",
+    title: "W3C"
+}, {
+    url: "http://www.chinaw3c.org/member-meetings.html#tpac",
+    title: "TPAC"
+}, {
+    url: "http://w3ctech.com/",
+    title: "w3ctech"
+}, {
+    url: "http://www.webrebuild.org/",
+    title: "WebReBuild"
+}, {
+    url: "http://www.mhtml5.com/",
+    title: "HTML5研究小组"
+}, {
+    url: "http://adc.alibabatech.org/",
+    title: "阿里技术嘉年华"
+}, {
+    url: "http://jsconf.cn/",
+    title: "京/沪JS"
+}, {
+    url: "http://fequan.com/",
+    title: "前端圈"
+}, {
+    url: "http://www.html5dw.com/",
+    title: "HTML5梦工场"
+}, {
+    url: "http://accessibilityunion.org/",
+    title: "无障碍联盟"
+}, {
+    url: "http://www.qianduan.net/",
+    title: "前端观察"
+}, {
+    url: "http://www.ruanyifeng.com/blog/",
+    title: "阮一峰"
+}, {
+    url: "http://www.w3cplus.com/",
+    title: "W3CPLUS"
+}, {
+    url: "http://www.w3cfuns.com/",
+    title: "W3CFUNS"
+}, {
+    url: "http://www.daqianduan.com/",
+    title: "大前端"
+}, {
+    url: "http://www.w3help.org/zh-cn/",
+    title: "W3HELP"
+}, {
+    url: "http://www.w3school.com.cn/",
+    title: "W3SCHOOL"
+}, {
+    url: "http://www.html5cn.org/",
+    title: "HTML5中国"
+}, {
+    url: "http://www.html-js.com/",
+    title: "前端乱炖"
+}, {
+    url: "http://f2e.im/",
+    title: "F2E社区"
+}, {
+    url: "https://developer.mozilla.org/zh-CN/",
+    title: "MDNNEW"
+}, {
+    url: "http://www.cssforest.org/blog/",
+    title: "CSS森林"
+}, {
+    url: "http://www.twinsenliang.net/",
+    title: "twinsen"
+}, {
+    url: "http://blog.ivane.me/",
+    title: "艾文王"
+}, {
+    url: "http://yuguo.us/weblog/",
+    title: "余果"
+}, {
+    url: "http://www.zhangxinxu.com/wordpress/",
+    title: "张鑫旭"
+}, {
+    url: "http://bigc.at/",
+    title: "大猫"
+}, {
+    url: "http://pufen.net/",
+    title: "飘飘"
+}, {
+    url: "http://s5s5.me/",
+    title: "米随随"
+}, {
+    url: "http://www.99css.com/",
+    title: "99css"
+}, {
+    url: "http://www.topcss.org/",
+    title: "进步博客"
+}, {
+    url: "http://wange.im/",
+    title: "万戈"
+}, {
+    url: "http://rpsh.net/",
+    title: "任平生"
+}, {
+    url: "http://www.ofcss.com/",
+    title: "小李刀刀"
+}, {
+    url: "http://www.yuanyun.me/",
+    title: "元云"
+}, {
+    url: "http://csshouse.net/",
+    title: "珍妮"
+}, {
+    url: "http://tommyfan.com/blog/",
+    title: "偷米饭"
+}, {
+    url: "http://www.smallni.com/",
+    title: "丁小倪"
+}, {
+    url: "https://github.com/lifesinger/lifesinger.github.com/issues?labels=blog",
+    title: "玉伯"
+}, {
+    url: "http://jayli.github.io/blog/",
+    title: "拔赤"
+}, {
+    url: "http://www.osmn00.com/",
+    title: "堂主"
+}, {
+    url: "http://www.planabc.net/",
+    title: "怿飞"
+}, {
+    url: "http://www.aoao.org.cn/blog/",
+    title: "嗷嗷"
+}, {
+    url: "http://www.iyunlu.com/view/",
+    title: "一丝"
+}, {
+    url: "http://jiongks.name/",
+    title: "勾三股四"
+}, {
+    url: "http://hax.iteye.com/",
+    title: "贺师俊"
+}, {
+    url: "http://hikejun.com/blog/",
+    title: "张克军"
+}, {
+    url: "http://gaowhen.com/",
+    title: "糖拌西红柿"
+}, {
+    url: "http://www.css88.com/",
+    title: "愚人码头"
+}, {
+    url: "http://linxz.github.io/tianyizone/",
+    title: "林小志"
+}, {
+    url: "http://i.wanz.im/",
+    title: "丸子"
+}, {
+    url: "http://uicss.cn/",
+    title: "崔凯"
+}, {
+    url: "http://js8.in/",
+    title: "三水清"
+}, {
+    url: "http://uicss.cn/",
+    title: "崔凯"
+}, {
+    url: "http://blog.bingo929.com/",
+    title: "彬go"
+}, {
+    url: "http://www.wufangbo.com/",
+    title: "武方博"
+}, {
+    url: "http://panweizeng.com/",
+    title: "潘魏增"
+}, {
+    url: "http://swordair.com/",
+    title: "葵中剑"
+}, {
+    url: "http://www.css3china.com/",
+    title: "css3China"
+}, {
+    url: "http://www.brucewar.com/",
+    title: "brucewar"
+}, {
+    url: "http://css-tricks.com/",
+    title: "CSS-Tricks"
+}, {
+    url: "http://www.webplatform.org/",
+    title: "WebPlatform"
+}, {
+    url: "http://smashingmagazine.com/",
+    title: "SmashingMagazine"
+}, {
+    url: "http://www.csszengarden.com/",
+    title: "cssZenGarden"
+}, {
+    url: "http://www.stevesouders.com/blog/",
+    title: "SteveSouders"
+}, {
+    url: "http://ejohn.org/",
+    title: "JohnResig"
+}, {
+    url: "http://javascript.crockford.com/",
+    title: "DouglasCrockfordNEW"
+}, {
+    url: "http://meyerweb.com/",
+    title: "EricMeyer"
+}, {
+    url: "http://www.nczonline.net/",
+    title: "NicholasZakas"
+}, {
+    url: "http://addyosmani.com/",
+    title: "Addy OsmaniNEW"
+}, {
+    url: "http://tgideas.qq.com/",
+    title: "腾讯TGideas"
+}, {
+    url: "http://isux.tencent.com/",
+    title: "腾讯ISUX"
+}, {
+    url: "http://cdc.tencent.com/",
+    title: "腾讯CDC"
+}, {
+    url: "http://www.alloyteam.com/",
+    title: "alloyteam"
+}, {
+    url: "http://gdc.qq.com/",
+    title: "QQ游戏GDC"
+}, {
+    url: "http://mxd.tencent.com/",
+    title: "腾讯无线MXD"
+}, {
+    url: "http://tid.tenpay.com/",
+    title: "财付通TID"
+}, {
+    url: "http://www.aliued.cn/",
+    title: "阿里中文UED"
+}, {
+    url: "http://www.aliued.com/",
+    title: "阿里国际UED"
+}, {
+    url: "http://alipay-ued.com/",
+    title: "支付宝UED"
+}, {
+    url: "http://ued.taobao.org/blog/",
+    title: "淘宝UED"
+}, {
+    url: "http://ued.tmall.com/",
+    title: "天猫UED"
+}, {
+    url: "http://ux.etao.com/",
+    title: "一淘UED"
+}, {
+    url: "http://ued.baidu.com/",
+    title: "百度searchUX"
+}, {
+    url: "http://fex.baidu.com/",
+    title: "百度FEX"
+}, {
+    url: "http://mux.baidu.com/",
+    title: "百度MUX"
+}, {
+    url: "http://ueo.baidu.com/",
+    title: "百度UEO"
+}, {
+    url: "http://ued.sogou.com/",
+    title: "搜狗UED"
+}, {
+    url: "http://mued.sohu.com/",
+    title: "搜狐MUED"
+}, {
+    url: "http://vc.changyou.com/",
+    title: "搜狐畅游UED"
+}, {
+    url: "http://ued.focus.cn/wordpress/",
+    title: "搜狐焦点UED"
+}, {
+    url: "http://ued.sina.com/",
+    title: "新浪网UED"
+}, {
+    url: "http://udc.weibo.com/",
+    title: "新浪微博UDC"
+}, {
+    url: "http://ued.leju.com/",
+    title: "新浪乐居UED"
+}, {
+    url: "http://uedc.163.com/",
+    title: "网易UEDC"
+}, {
+    url: "http://gux.163.com/",
+    title: "网易游戏GUX"
+}, {
+    url: "http://ued.ctrip.com/",
+    title: "携程UEDNEW"
+}, {
+    url: "http://blog.19ued.com/",
+    title: "19楼UED"
+}, {
+    url: "http://ued.5173.com/",
+    title: "5173UED"
+}, {
+    url: "http://cued.xunlei.com/",
+    title: "迅雷CUED"
+}, {
+    url: "http://uxc.360.cn/",
+    title: "360UXC"
+}, {
+    url: "http://www.gameued.com/",
+    title: "昆仑游戏UED"
+}, {
+    url: "http://ued.yhd.com/blog",
+    title: "一号店UED"
+}, {
+    url: "http://jdc.jd.com/",
+    title: "京东设计中心"
+}, {
+    url: "https://www.google.com/intl/zh-CN/chrome/browser/",
+    title: "谷歌浏览器"
+}, {
+    url: "http://www.firefox.com.cn/",
+    title: "火狐浏览器"
+}, {
+    url: "http://www.opera.com/zh-cn",
+    title: "欧朋浏览器"
+}, {
+    url: "http://www.apple.com/cn/safari/",
+    title: "Safari浏览器"
+}, {
+    url: "http://windows.microsoft.com/zh-cn/internet-explorer/download-ie",
+    title: "IE浏览器"
+}, {
+    url: "http://browser.qq.com/index_m.html",
+    title: "QQ浏览器"
+}, {
+    url: "http://www.maxthon.cn/",
+    title: "遨游浏览器"
+}, {
+    url: "http://se.360.cn/",
+    title: "360浏览器"
+}, {
+    url: "http://www.theworld.cn/",
+    title: "世界之窗浏览器"
+}, {
+    url: "https://addons.mozilla.org/zh-CN/firefox/addon/firebug/",
+    title: "FireBUG"
+}, {
+    url: "https://addons.mozilla.org/zh-CN/firefox/addon/css-usage/",
+    title: "cssUsage"
+}, {
+    url: "https://addons.mozilla.org/zh-CN/firefox/addon/yslow/",
+    title: "YSlow"
+}, {
+    url: "https://addons.mozilla.org/zh-CN/firefox/addon/web-developer/",
+    title: "WebDeveloper"
+}, {
+    url: "https://addons.mozilla.org/zh-CN/firefox/addon/html-validator/",
+    title: "HtmlValidator"
+}, {
+    url: "https://addons.mozilla.org/zh-CN/firefox/addon/colorzilla/",
+    title: "colorzilla"
+}, {
+    url: "https://addons.mozilla.org/ZH-cn/firefox/addon/httpfox/",
+    title: "httpfox"
+}, {
+    url: "https://developers.google.com/chrome-developer-tools/?hl=zh-CN",
+    title: "ChromeDevTools"
+}, {
+    url: "http://www.debugbar.com/",
+    title: "DEBUGGER"
+}, {
+    url: "http://www.microsoft.com/en-us/download/details.aspx?id=18359",
+    title: "IEToolbar"
+}, {
+    url: "http://www.sublimetext.com/",
+    title: "sublimeText"
+}, {
+    url: "http://notepad-plus-plus.org/",
+    title: "notepad++"
+}, {
+    url: "http://www.editplus.com/",
+    title: "EditPlus"
+}, {
+    url: "http://www.jetbrains.com/idea/",
+    title: "IntelliJIDEA"
+}, {
+    url: "http://www.adobe.com/cn/products/dreamweaver.html",
+    title: "Dreamweaver"
+}, {
+    url: "http://www.vim.org/download.php",
+    title: "VIM"
+}, {
+    url: "http://aptana.com/",
+    title: "Aptana"
+}, {
+    url: "http://jsfiddle.net/",
+    title: "jsfiddle"
+}, {
+    url: "http://jsbin.com/",
+    title: "jsbin"
+}, {
+    url: "http://cssdeck.com/",
+    title: "cssdeck"
+}, {
+    url: "http://codepen.io/",
+    title: "codepen"
+}, {
+    url: "http://jsdo.it/",
+    title: "jsdoit"
+}, {
+    url: "http://dabblet.com/",
+    title: "dabblet"
+}, {
+    url: "http://www.alibench.com/",
+    title: "阿里测"
+}, {
+    url: "http://developers.google.com/speed/pagespeed/insights/",
+    title: "PageSpeed"
+}, {
+    url: "http://www.webpagetest.org/",
+    title: "WebPageTest"
+}, {
+    url: "http://gtmetrix.com/",
+    title: "gtmetrix"
+}, {
+    url: "http://www.telerik.com/download/fiddler",
+    title: "Fiddler"
+}, {
+    url: "http://www.httpwatch.com/",
+    title: "httpwatch"
+}, {
+    url: "http://csscomb.com/",
+    title: "csscomb"
+}, {
+    url: "http://yui.github.io/yuicompressor/",
+    title: "YUIcompressor"
+}, {
+    url: "http://tool.css-js.com/",
+    title: "在线CSS/JS压缩"
+}, {
+    url: "http://closure-compiler.appspot.com/home",
+    title: "ClosureCompiler"
+}, {
+    url: "http://jsmini.com/",
+    title: "jsmini"
+}, {
+    url: "https://tinypng.com/",
+    title: "tinypng"
+}, {
+    url: "http://www.smushit.com/ysmush.it/",
+    title: "smushit"
+}, {
+    url: "http://www.css3maker.com/",
+    title: "CSS3maker"
+}, {
+    url: "http://css3generator.com/",
+    title: "CSS3generator"
+}, {
+    url: "http://www.colorzilla.com/gradient-editor/",
+    title: "CSS3渐变生成"
+}, {
+    url: "http://css-tricks.com/examples/ButtonMaker/",
+    title: "CSS3按钮生成"
+}, {
+    url: "http://ecd.tencent.com/css3/tools.html",
+    title: "CSS3动画生成-ECD"
+}, {
+    url: "http://www.my-debugbar.com/wiki/IETester/HomePage",
+    title: "IEtester"
+}, {
+    url: "http://windows.microsoft.com/zh-cn/windows7/install-and-use-windows-xp-mode-in-windows-7",
+    title: "WINXPmode"
+}, {
+    url: "http://www.vmware.com/cn",
+    title: "vmware"
+}, {
+    url: "https://www.virtualbox.org/wiki/Downloads",
+    title: "virtualbox"
+}, {
+    url: "http://webcodertools.com/imagetobase64converter",
+    title: "图片转base64"
+}, {
+    url: "http://json.parser.online.fr/",
+    title: "在线解析json"
+}, {
+    url: "http://caniuse.com/",
+    title: "caniuse"
+}, {
+    url: "http://www.browsersupport.net/",
+    title: "BrowserSupport"
+}, {
+    url: "http://fmbip.com/litmus/",
+    title: "HTML5/CSS3兼容查询"
+}, {
+    url: "http://css.doyoe.com/",
+    title: "CSS参考手册"
+}, {
+    url: "http://www.zhangxinxu.com/css3/",
+    title: "CSS3参考手册"
+}, {
+    url: "http://www.divcss5.com/css3/",
+    title: "CSS3参考手册"
+}, {
+    url: "http://www.php100.com/manual/javascript.html",
+    title: "原生JS手册"
+}, {
+    url: "http://api.jquery.com/",
+    title: "jQueryAPI"
+}, {
+    url: "http://www.php100.com/manual/jQuery/",
+    title: "jQuery1.7手册"
+}, {
+    url: "http://www.getmarkman.com/",
+    title: "马克鳗"
+}, {
+    url: "http://www.jslint.com/",
+    title: "jslint"
+}, {
+    url: "http://necolas.github.io/normalize.css/",
+    title: "Normalize.css"
+}, {
+    url: "http://lessframework.com/",
+    title: "lessFramework"
+}, {
+    url: "http://www.formee.org/",
+    title: "Formee"
+}, {
+    url: "http://960.gs/",
+    title: "960GRID"
+}, {
+    url: "http://responsive.gs/",
+    title: "ResponsiveGridSystem"
+}, {
+    url: "http://getbootstrap.com/",
+    title: "Bootstrap"
+}, {
+    url: "http://designmodo.github.io/Flat-UI/",
+    title: "FlatUI"
+}, {
+    url: "http://purecss.io/",
+    title: "pure"
+}, {
+    url: "http://metroui.org.ua/",
+    title: "MetroUI"
+}, {
+    url: "http://www.maxmert.com/",
+    title: "Maxmertkit"
+}, {
+    url: "http://semantic-ui.com/",
+    title: "Semantic UI"
+}, {
+    url: "http://www.cssreset.com/",
+    title: "cssReset"
+}, {
+    url: "http://www.iecss.com/",
+    title: "IE默认CSS"
+}, {
+    url: "http://browserhacks.com/",
+    title: "浏览器hack大全"
+}, {
+    url: "http://cssvalues.com/",
+    title: "cssValuesNEW"
+}, {
+    url: "http://daneden.github.io/animate.css/",
+    title: "animate动画库"
+}, {
+    url: "http://css3lib.alloyteam.com/",
+    title: "CSS3lib动画库"
+}, {
+    url: "http://ecd.tencent.com/css3/index.html",
+    title: "ECD动画库"
+}, {
+    url: "http://css3please.com/",
+    title: "css3pleaseNEW"
+}, {
+    url: "http://css3clickchart.com/",
+    title: "css3ClickChartNEW"
+}, {
+    url: "http://www.w3school.com.cn/css3/",
+    title: "W3SCHOOL"
+}, {
+    url: "http://www.w3cplus.com/blog/tags/11.html",
+    title: "W3CPLUS"
+}, {
+    url: "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3",
+    title: "Mozilla CSS3"
+}, {
+    url: "http://jquery.com/",
+    title: "jQuery"
+}, {
+    url: "http://mootools.net/",
+    title: "mootools"
+}, {
+    url: "http://dojotoolkit.org/",
+    title: "Dojo"
+}, {
+    url: "http://www.sencha.com/products/extjs/",
+    title: "ExtJS"
+}, {
+    url: "http://prototypejs.org/",
+    title: "Prototype"
+}, {
+    url: "http://yuilibrary.com/",
+    title: "YUI"
+}, {
+    url: "http://sizzlejs.com/",
+    title: "sizzlejs"
+}, {
+    url: "http://zeptojs.com/",
+    title: "zeptoNEW"
+}, {
+    url: "http://momentjs.com/",
+    title: "Moment.js"
+}, {
+    url: "http://facebook.github.io/react/",
+    title: "React.jsNEW"
+}, {
+    url: "http://www.nodejs.org/",
+    title: "node.js官方"
+}, {
+    url: "http://cnodejs.org/",
+    title: "node.js中文社区"
+}, {
+    url: "http://gruntjs.com/",
+    title: "grunt.js官方"
+}, {
+    url: "http://gruntjs.cn/",
+    title: "grunt.js中文站点"
+}, {
+    url: "http://yeoman.io/",
+    title: "YeomanNEW"
+}, {
+    url: "http://gulpjs.com/",
+    title: "gulpjs官方"
+}, {
+    url: "https://github.com/targetkiller/gulp-imageisux",
+    title: "智图gulp插件NEW"
+}, {
+    url: "http://backbonejs.org/",
+    title: "backbonejs"
+}, {
+    url: "http://angularjs.org/",
+    title: "angularjs"
+}, {
+    url: "http://emberjs.com/",
+    title: "emberjs"
+}, {
+    url: "http://knockoutjs.com/",
+    title: "knockoutjs"
+}, {
+    url: "http://www.commonjs.org/",
+    title: "commonjs"
+}, {
+    url: "http://seajs.org/docs/",
+    title: "seajs"
+}, {
+    url: "http://requirejs.org/",
+    title: "requirejs"
+}, {
+    url: "http://nodejs.org/",
+    title: "nodejs"
+}, {
+    url: "https://github.com/cujojs/curl",
+    title: "curl.js"
+}, {
+    url: "http://impactjs.com/",
+    title: "ImpactJS"
+}, {
+    url: "http://www.createjs.com/",
+    title: "createjs"
+}, {
+    url: "http://craftyjs.com/",
+    title: "craftyjs"
+}, {
+    url: "http://threejs.org/",
+    title: "threejs"
+}, {
+    url: "http://melonjs.org/",
+    title: "melonjs"
+}, {
+    url: "http://gamejs.org/",
+    title: "gamejs"
+}, {
+    url: "http://www.limejs.com/",
+    title: "LimeJS"
+}, {
+    url: "http://zohararad.github.io/audio5js/",
+    title: "audio5js"
+}, {
+    url: "http://bonsaiden.github.io/JavaScript-Garden/zh/",
+    title: "JS秘密花园"
+}, {
+    url: "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+    title: "MozillaJavaScriptGuide"
+}, {
+    url: "http://chajn.org/jsguide/javascriptguide.html",
+    title: "GoogleJavaScriptGuide"
+}, {
+    url: "http://www.javascriptsource.com/",
+    title: "JavaScriptSource"
+}, {
+    url: "http://jqueryui.com/",
+    title: "jQueryUI"
+}, {
+    url: "http://jqueryvalidation.org/",
+    title: "validate"
+}, {
+    url: "http://plugins.jquery.com/colorbox/",
+    title: "colorbox"
+}, {
+    url: "http://marcgrabanski.com/jquery-ui-datepicker/",
+    title: "datepicker"
+}, {
+    url: "https://github.com/alvarotrigo/fullPage.js",
+    title: "fullPage.jsNEW"
+}, {
+    url: "http://jquerymobile.com/",
+    title: "jQueryMobile"
+}, {
+    url: "http://joapp.com/",
+    title: "Joapp"
+}, {
+    url: "http://52framework.com/",
+    title: "52framework"
+}, {
+    url: "http://getfri.es/",
+    title: "Fries"
+}, {
+    url: "http://blog.angeloff.name/zoey/",
+    title: "zoey"
+}, {
+    url: "http://mobilehtml5.org/",
+    title: "HTML5支持性查询"
+}, {
+    url: "http://screensiz.es/phone",
+    title: "ScreenSiz"
+}, {
+    url: "http://html5test.com/",
+    title: "HTML5浏览器测试"
+}, {
+    url: "http://html5please.com/",
+    title: "html5pleaseNEW"
+}, {
+    url: "http://msdn.microsoft.com/library/windows/apps/br211385.aspx",
+    title: "WIN8开发指南"
+}, {
+    url: "https://developer.apple.com/cn/technologies/ios/",
+    title: "IOS官方教程"
+}, {
+    url: "http://www.amazon.cn/gp/product/B007OQQVMY/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B007OQQVMY&linkCode=as2&tag=whycss-23",
+    title: "JavaScript高级程序设计(第3版)"
+}, {
+    url: "http://www.amazon.cn/gp/product/B007VISQ1Y/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B007VISQ1Y&linkCode=as2&tag=whycss-23",
+    title: "JavaScript权威指南(第6版)"
+}, {
+    url: "http://www.amazon.cn/gp/product/B004VJM5KE/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B004VJM5KE&linkCode=as2&tag=whycss-23",
+    title: "JavaScript DOM编程艺术(第2版)"
+}, {
+    url: "http://www.amazon.cn/gp/product/B00D6MT3LG/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00D6MT3LG&linkCode=as2&tag=whycss-23",
+    title: "JavaScript设计模式"
+}, {
+    url: "http://www.amazon.cn/gp/product/B0089TDFNS/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B0089TDFNS&linkCode=as2&tag=whycss-23",
+    title: "锋利的jQuery(第2版)"
+}, {
+    url: "http://www.amazon.cn/gp/product/B0097CON2S/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B0097CON2S&linkCode=as2&tag=whycss-23",
+    title: "JavaScript语言精粹(修订版)"
+}, {
+    url: "http://www.amazon.cn/gp/product/B008QTG1HS/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B008QTG1HS&linkCode=as2&tag=whycss-23",
+    title: "JavaScript模式"
+}, {
+    url: "http://www.amazon.cn/gp/product/B008XFDQ14/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B008XFDQ14&linkCode=as2&tag=whycss-23",
+    title: "HTTP权威指南"
+}, {
+    url: "http://www.amazon.cn/gp/product/B00GOM5IL4/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00GOM5IL4&linkCode=as2&tag=whycss-23",
+    title: "深入浅出Node.js"
+}, {
+    url: "http://www.amazon.cn/gp/product/B008UCHA58/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B008UCHA58&linkCode=as2&tag=whycss-23",
+    title: "精通正则表达式(第3版)"
+}, {
+    url: "http://javascriptweekly.com/",
+    title: "JavaScriptWeekly"
+}, {
+    url: "http://html5weekly.com/",
+    title: "HTML5Weekly"
+}, {
+    url: "http://sidebar.io/",
+    title: "SidebarIO"
+}, {
+    url: "http://www.75team.com/weekly/",
+    title: "奇舞团周刊"
+}, {
+    url: "http://weekly.manong.io/",
+    title: "码农周刊"
+}, {
+    url: "http://ourjs.com/",
+    title: "OurJS周刊"
+}, {
+    url: "http://web-design-weekly.com/",
+    title: "WebDesignWeekly"
+}, {
+    url: "http://webtoolsweekly.com/",
+    title: "WebToolsWeekly"
+}, {
+    url: "http://responsivedesignweekly.com/",
+    title: "ResponsiveDesignWeekly"
+}, {
+    url: "http://www.feweekly.com/",
+    title: "FeWeekly"
+}, {
+    url: "http://www.infoq.com/cn/",
+    title: "infoq"
+}, {
+    url: "http://www.36kr.com/",
+    title: "36氪"
+}, {
+    url: "http://www.geekpark.net/",
+    title: "极客公园"
+}, {
+    url: "http://www.ifanr.com/",
+    title: "爱范儿"
+}, {
+    url: "http://stackoverflow.com/",
+    title: "stackoverflow"
+}, {
+    url: "http://www.quora.com/",
+    title: "quora"
+}, {
+    url: "http://www.zhihu.com/",
+    title: "知乎"
+}, {
+    url: "http://dribbble.com/",
+    title: "Dribbble"
+}, {
+    url: "http://www.zcool.com.cn/",
+    title: "站酷"
+}, {
+    url: "http://www.uisdc.com/",
+    title: "优设"
+}, {
+    url: "http://www.iconfans.org/",
+    title: "iconfans"
+}, {
+    url: "http://www.visionunion.com/",
+    title: "视觉同盟"
+}, {
+    url: "http://shijue.me/",
+    title: "视觉中国"
+}, {
+    url: "http://68design.net/",
+    title: "68design"
+}, {
+    url: "http://www.uxpachina.org/",
+    title: "UPA中国"
+}, {
+    url: "http://ixdc.org/",
+    title: "IXDC"
+}, {
+    url: "https://www.iconfinder.com/",
+    title: "iconfinder"
+}, {
+    url: "http://findicons.com/",
+    title: "findicons"
+}, {
+    url: "http://www.iconfont.cn/",
+    title: "icon font"
+}, {
+    url: "https://www.google.com/fonts",
+    title: "Google Fonts"
+}, {
+    url: "http://font.chinaz.com/",
+    title: "Chinaz Font"
+}, {
+    url: "http://font.knowsky.com/",
+    title: "Knowsky Font"
+}, {
+    url: "https://kuler.adobe.com/create/color-wheel/",
+    title: "kuler"
+}, {
+    url: "http://www.peise.net/tools/web/",
+    title: "peise"
+}, {
+    url: "http://colorschemedesigner.com/",
+    title: "ColorSchemeDesigner"
+}, {
+    url: "http://www.design-seeds.com/",
+    title: "DesignSeeds"
+}, {
+    url: "http://www.colorcombos.com/combolibrary.html",
+    title: "colorCombosNEW"
+}, {
+    url: "http://www.processon.com/",
+    title: "processon"
+}, {
+    url: "http://www.mindjet.com/mindmanager/",
+    title: "mindManager"
+}, {
+    url: "http://www.mobile-patterns.com/",
+    title: "MobilePatterns"
+}, {
+    url: "http://www.pixeden.com/",
+    title: "pixeden"
+}, {
+    url: "http://logopond.com/",
+    title: "全球LOGO汇集"
+}]
+"

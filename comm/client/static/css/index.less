@@ -1,0 +1,62 @@
+.border1 { border: 1px solid #ccc; }
+.border2 { border: 1px solid #dadada; }
+.cn-ellipsis { overflow: hidden; white-space: nowrap; text-overflow: ellipsis;}
+a {.cn-ellipsis}
+.hide { display: none; }
+body{min-width: 320px;max-width: 768px;margin: 0 auto;}
+
+/*通用*/
+.cn { width: 100%; box-sizing: border-box; background: #fff; overflow: hidden; }
+.cn_card { width: 100%; box-sizing: border-box; margin-bottom: 10px; background: #fff; overflow: hidden; }
+.cn_hd { position: relative; height: 40px; line-height: 40px; padding-left: 10px; background: #fff; }
+.cn_hd .title { float: left; font-size: 18px; color: #ff6500; }
+.cn_hd .des { float: right; margin-right: 15px; font-size: 12px; color: #999; }
+.cn_hd.fold+.cn_bd { display: none; }
+.cn_hd.fold .cn_nav_cur { border: none; height: 40px; line-height: 40px; }
+.cn_hd.fold .cn_nav_cur:before { display: none; }
+.cn_tab { box-sizing: border-box; -webkit-box-sizing: border-box; float: left; }
+.cn_touch { overflow: hidden;}
+.cn_mg_lr { margin-left: 10px; margin-right: 10px; }
+.cn_pd_lr { padding-left: 10px; padding-right: 10px; }
+#cardWap { overflow: hidden; }
+.loading { height: 100px; line-height: 100px; text-align: center; background-color: #f3f3f3; }
+.cn_nav, .cn_nav_other { float: right; border-bottom: none; overflow: hidden;}
+.cn_nav li, .cn_nav_other li {float: left;width: 3em;margin: 0 .5em; text-align: center; font-size: 15px; color: #777;}
+.cn_nav .cn_nav_cur, .cn_nav_other .cn_nav_cur {border-bottom: 1px solid #3385ff; background: #fff;color: #3385ff}
+
+/*分类通用*/
+.cn_fl { overflow: hidden; border-top: 1px solid #eee;border-left: 1px solid #eee;}
+.cn_fl a { float: left; line-height: 36px; box-sizing: border-box; -webkit-box-sizing: border-box;border-bottom: 1px solid #eee; border-right: 1px solid #eee; overflow: hidden; font-size: 14px; text-align: center;}
+.cn_fl_3 a { width: 33.33333%; }
+.cn_fl_4 a { width: 25%; }
+.cn_fl_5 a { width: 20%; }
+
+/*信息流*/
+.cn_news .link { display: block; white-space: normal; }
+.cn_news h3 { margin: .8em 0 .5em; font-size: 1em }
+.cn_news .md-bd { display: block }
+.cn_news li { margin: 0 15px; border-bottom: 1px dashed #d1d1d1; }
+.cn_news li img { float: left; margin-right: 10px; width: 120px; padding-top: 3px }
+.cn_news li img.image { float: none; display: block; width: 100%; max-width: 389px; height: auto; margin: 0 auto }
+.cn_news .summary { color: #666; margin-bottom: 1em; line-height: 1.5; font-size: .8em;overflow: hidden; }
+
+/*媒体查询*/
+@media screen and (max-width:320px) { }
+@media screen and (min-width:361px) and (max-width:414px) {
+	.head h1 { font-size: 28px; }
+	.cn_hd .title { font-size: 20px; }
+	.cn_fl a { font-size: 16px; }
+}
+@media screen and (min-width:415px) and (max-width:720px) {
+	.head h1 { font-size: 30px; }
+	.cn_hd .title { font-size: 22px; }
+	.cn_fl a { font-size: 18px; }
+}
+@media screen and (min-width:721px) {
+	.head h1 { font-size: 32px; }
+	.cn_hd .title { font-size: 24px; }
+	.cn_fl a { font-size: 20px; }
+}
+
+/*cpm卡片*/
+.cpmWap { overflow: hidden; background-color: #fff; padding: 10px 0; }
