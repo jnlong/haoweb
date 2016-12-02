@@ -11,14 +11,6 @@
             ],
             "subpath": "/views/home/page/index.tpl"
         },
-        "home:page/layout.tpl": {
-            "uri": "home/page/layout.tpl",
-            "type": "tpl",
-            "extras": {
-                "isPage": true
-            },
-            "subpath": "/views/home/page/layout.tpl"
-        },
         "home:page/tpl/colorBlock.tpl": {
             "uri": "home/page/tpl/colorBlock.tpl",
             "type": "tpl",
@@ -43,92 +35,31 @@
             },
             "subpath": "/views/home/page/tpl/news.tpl"
         },
-        "home:static/css/base/comm.css": {
-            "uri": "/static/home/static/css/base/comm_4b7ccd7.css",
-            "type": "css",
-            "subpath": "/static/home/static/css/base/comm_4b7ccd7.css"
-        },
-        "home:static/css/base/icon.less": {
-            "uri": "/static/home/static/css/base/icon_d41d8cd.css",
-            "type": "css",
-            "subpath": "/static/home/static/css/base/icon_d41d8cd.css"
-        },
-        "home:static/css/base/reset.less": {
-            "uri": "/static/home/static/css/base/reset_4b7ccd7.css",
-            "type": "css",
-            "subpath": "/static/home/static/css/base/reset_4b7ccd7.css"
-        },
         "home:static/css/index.less": {
-            "uri": "/static/home/static/css/index_6016463.css",
+            "uri": "/static/home/static/css/index.css",
             "type": "css",
-            "subpath": "/static/home/static/css/index_6016463.css"
+            "subpath": "/static/home/static/css/index.css"
         },
         "home:static/js/base/comm.js": {
-            "uri": "/static/home/static/js/base/comm_d41d8cd.js",
+            "uri": "/static/home/static/js/base/comm.js",
             "type": "js",
-            "subpath": "/static/home/static/js/base/comm_d41d8cd.js"
+            "subpath": "/static/home/static/js/base/comm.js"
         },
         "home:static/js/index.js": {
-            "uri": "/static/home/static/js/index_65cd02f.js",
+            "uri": "/static/home/static/js/index.js",
             "type": "js",
-            "subpath": "/static/home/static/js/index_65cd02f.js"
+            "subpath": "/static/home/static/js/index.js"
         },
         "home:static/js/source.js": {
-            "uri": "/static/home/static/js/source_ef7c46d.js",
+            "uri": "/static/home/static/js/source.js",
             "type": "js",
-            "subpath": "/static/home/static/js/source_ef7c46d.js"
-        },
-        "home:static/lib/bigpipe.js": {
-            "uri": "/static/home/static/lib/bigpipe_0eb787e.js",
-            "type": "js",
-            "subpath": "/static/home/static/lib/bigpipe_0eb787e.js"
-        },
-        "home:static/lib/fx.js": {
-            "uri": "/static/home/static/lib/fx_1b47af7.js",
-            "type": "js",
-            "subpath": "/static/home/static/lib/fx_1b47af7.js"
-        },
-        "home:static/lib/lazyload.js": {
-            "uri": "/static/home/static/lib/lazyload_80d4f78.js",
-            "type": "js",
-            "subpath": "/static/home/static/lib/lazyload_80d4f78.js"
-        },
-        "home:static/lib/markdown.js": {
-            "uri": "/static/home/static/lib/markdown_3b6d845.js",
-            "type": "js",
-            "deps": [
-                "util"
-            ],
-            "subpath": "/static/home/static/lib/markdown_3b6d845.js"
-        },
-        "home:static/lib/mod.js": {
-            "uri": "/static/home/static/lib/mod_75d1f98.js",
-            "type": "js",
-            "subpath": "/static/home/static/lib/mod_75d1f98.js"
-        },
-        "home:static/lib/page.js": {
-            "uri": "/static/home/static/lib/page_d27dd51.js",
-            "type": "js",
-            "deps": [
-                "home:static/lib/bigpipe.js"
-            ],
-            "subpath": "/static/home/static/lib/page_d27dd51.js"
-        },
-        "home:static/lib/zepto.js": {
-            "uri": "/static/home/static/lib/zepto_a52cd15.js",
-            "type": "js",
-            "subpath": "/static/home/static/lib/zepto_a52cd15.js"
-        },
-        "home:static/lib/zepto.min.js": {
-            "uri": "/static/home/static/lib/zepto.min_a52cd15.js",
-            "type": "js",
-            "subpath": "/static/home/static/lib/zepto.min_a52cd15.js"
+            "subpath": "/static/home/static/js/source.js"
         },
         "home:widget/ad/ad.less": {
-            "uri": "/static/home/widget/ad/ad_8df2dc0.css",
+            "uri": "/static/home/widget/ad/ad.css",
             "type": "css",
             "pkg": "home:p0",
-            "subpath": "/static/home/widget/ad/ad_8df2dc0.css"
+            "subpath": "/static/home/widget/ad/ad.css"
         },
         "home:widget/ad/ad.tpl": {
             "uri": "home/widget/ad/ad.tpl",
@@ -139,19 +70,19 @@
             "subpath": "/views/home/widget/ad/ad.tpl"
         },
         "home:widget/fenlei/fenlei.js": {
-            "uri": "/static/home/widget/fenlei/fenlei_68f2182.js",
+            "uri": "/static/home/widget/fenlei/fenlei.js",
             "type": "js",
             "deps": [
                 "home:widget/fenlei/fenlei.less"
             ],
             "pkg": "home:p1",
-            "subpath": "/static/home/widget/fenlei/fenlei_68f2182.js"
+            "subpath": "/static/home/widget/fenlei/fenlei.js"
         },
         "home:widget/fenlei/fenlei.less": {
-            "uri": "/static/home/widget/fenlei/fenlei_b246ff5.css",
+            "uri": "/static/home/widget/fenlei/fenlei.css",
             "type": "css",
             "pkg": "home:p0",
-            "subpath": "/static/home/widget/fenlei/fenlei_b246ff5.css"
+            "subpath": "/static/home/widget/fenlei/fenlei.css"
         },
         "home:widget/fenlei/fenlei.tpl": {
             "uri": "home/widget/fenlei/fenlei.tpl",
@@ -163,10 +94,10 @@
             "subpath": "/views/home/widget/fenlei/fenlei.tpl"
         },
         "home:widget/footer/footer.less": {
-            "uri": "/static/home/widget/footer/footer_160243b.css",
+            "uri": "/static/home/widget/footer/footer.css",
             "type": "css",
             "pkg": "home:p0",
-            "subpath": "/static/home/widget/footer/footer_160243b.css"
+            "subpath": "/static/home/widget/footer/footer.css"
         },
         "home:widget/footer/footer.tpl": {
             "uri": "home/widget/footer/footer.tpl",
@@ -177,10 +108,10 @@
             "subpath": "/views/home/widget/footer/footer.tpl"
         },
         "home:widget/head/head.less": {
-            "uri": "/static/home/widget/head/head_a0e210a.css",
+            "uri": "/static/home/widget/head/head.css",
             "type": "css",
             "pkg": "home:p0",
-            "subpath": "/static/home/widget/head/head_a0e210a.css"
+            "subpath": "/static/home/widget/head/head.css"
         },
         "home:widget/head/head.tpl": {
             "uri": "home/widget/head/head.tpl",
@@ -191,10 +122,10 @@
             "subpath": "/views/home/widget/head/head.tpl"
         },
         "home:widget/search/search.less": {
-            "uri": "/static/home/widget/search/search_36659b2.css",
+            "uri": "/static/home/widget/search/search.css",
             "type": "css",
             "pkg": "home:p0",
-            "subpath": "/static/home/widget/search/search_36659b2.css"
+            "subpath": "/static/home/widget/search/search.css"
         },
         "home:widget/search/search.tpl": {
             "uri": "home/widget/search/search.tpl",
@@ -203,6 +134,638 @@
                 "home:widget/search/search.less"
             ],
             "subpath": "/views/home/widget/search/search.tpl"
+        },
+        "home:components/bootstrap/alert.js": {
+            "uri": "/static/home/components/bootstrap/alert.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/bootstrap/util.js"
+            ],
+            "subpath": "/static/home/components/bootstrap/alert.js"
+        },
+        "home:components/bootstrap/bootstrap.js": {
+            "uri": "/static/home/components/bootstrap/bootstrap.js",
+            "type": "js",
+            "deps": [
+                "home:components/bootstrap/util.js",
+                "home:components/bootstrap/alert.js",
+                "home:components/bootstrap/button.js",
+                "home:components/bootstrap/carousel.js",
+                "home:components/bootstrap/collapse.js",
+                "home:components/bootstrap/dropdown.js",
+                "home:components/bootstrap/modal.js",
+                "home:components/bootstrap/scrollspy.js",
+                "home:components/bootstrap/tab.js",
+                "home:components/bootstrap/tooltip.js",
+                "home:components/bootstrap/popover.js"
+            ],
+            "subpath": "/static/home/components/bootstrap/bootstrap.js"
+        },
+        "home:components/bootstrap/button.js": {
+            "uri": "/static/home/components/bootstrap/button.js",
+            "type": "js",
+            "deps": [
+                "jquery"
+            ],
+            "subpath": "/static/home/components/bootstrap/button.js"
+        },
+        "home:components/bootstrap/carousel.js": {
+            "uri": "/static/home/components/bootstrap/carousel.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/bootstrap/util.js"
+            ],
+            "subpath": "/static/home/components/bootstrap/carousel.js"
+        },
+        "home:components/bootstrap/collapse.js": {
+            "uri": "/static/home/components/bootstrap/collapse.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/bootstrap/util.js"
+            ],
+            "subpath": "/static/home/components/bootstrap/collapse.js"
+        },
+        "home:components/bootstrap/css/bootstrap.css": {
+            "uri": "/static/home/components/bootstrap/css/bootstrap.css",
+            "type": "css",
+            "subpath": "/static/home/components/bootstrap/css/bootstrap.css"
+        },
+        "home:components/bootstrap/dropdown.js": {
+            "uri": "/static/home/components/bootstrap/dropdown.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/bootstrap/util.js"
+            ],
+            "subpath": "/static/home/components/bootstrap/dropdown.js"
+        },
+        "home:components/bootstrap/modal.js": {
+            "uri": "/static/home/components/bootstrap/modal.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/bootstrap/util.js"
+            ],
+            "subpath": "/static/home/components/bootstrap/modal.js"
+        },
+        "home:components/bootstrap/npm.js": {
+            "uri": "/static/home/components/bootstrap/npm.js",
+            "type": "js",
+            "deps": [
+                "./umd/util.js",
+                "./umd/alert.js",
+                "./umd/button.js",
+                "./umd/carousel.js",
+                "./umd/collapse.js",
+                "./umd/dropdown.js",
+                "./umd/modal.js",
+                "./umd/scrollspy.js",
+                "./umd/tab.js",
+                "./umd/tooltip.js",
+                "./umd/popover.js"
+            ],
+            "subpath": "/static/home/components/bootstrap/npm.js"
+        },
+        "home:components/bootstrap/popover.js": {
+            "uri": "/static/home/components/bootstrap/popover.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/bootstrap/tooltip.js"
+            ],
+            "subpath": "/static/home/components/bootstrap/popover.js"
+        },
+        "home:components/bootstrap/scrollspy.js": {
+            "uri": "/static/home/components/bootstrap/scrollspy.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/bootstrap/util.js"
+            ],
+            "subpath": "/static/home/components/bootstrap/scrollspy.js"
+        },
+        "home:components/bootstrap/tab.js": {
+            "uri": "/static/home/components/bootstrap/tab.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/bootstrap/util.js"
+            ],
+            "subpath": "/static/home/components/bootstrap/tab.js"
+        },
+        "home:components/bootstrap/tooltip.js": {
+            "uri": "/static/home/components/bootstrap/tooltip.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/bootstrap/util.js"
+            ],
+            "subpath": "/static/home/components/bootstrap/tooltip.js"
+        },
+        "home:components/bootstrap/util.js": {
+            "uri": "/static/home/components/bootstrap/util.js",
+            "type": "js",
+            "deps": [
+                "jquery"
+            ],
+            "subpath": "/static/home/components/bootstrap/util.js"
+        },
+        "home:components/jquery-validation/additional-methods.js": {
+            "uri": "/static/home/components/jquery-validation/additional-methods.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/additional-methods.js"
+        },
+        "home:components/jquery-validation/jquery.validate.js": {
+            "uri": "/static/home/components/jquery-validation/jquery.validate.js",
+            "type": "js",
+            "deps": [
+                "jquery"
+            ],
+            "subpath": "/static/home/components/jquery-validation/jquery.validate.js"
+        },
+        "home:components/jquery-validation/localization/messages_ar.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_ar.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_ar.js"
+        },
+        "home:components/jquery-validation/localization/messages_bg.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_bg.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_bg.js"
+        },
+        "home:components/jquery-validation/localization/messages_ca.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_ca.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_ca.js"
+        },
+        "home:components/jquery-validation/localization/messages_cs.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_cs.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_cs.js"
+        },
+        "home:components/jquery-validation/localization/messages_da.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_da.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_da.js"
+        },
+        "home:components/jquery-validation/localization/messages_de.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_de.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_de.js"
+        },
+        "home:components/jquery-validation/localization/messages_el.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_el.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_el.js"
+        },
+        "home:components/jquery-validation/localization/messages_es_AR.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_es_AR.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_es_AR.js"
+        },
+        "home:components/jquery-validation/localization/messages_es.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_es.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_es.js"
+        },
+        "home:components/jquery-validation/localization/messages_et.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_et.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_et.js"
+        },
+        "home:components/jquery-validation/localization/messages_eu.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_eu.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_eu.js"
+        },
+        "home:components/jquery-validation/localization/messages_fa.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_fa.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_fa.js"
+        },
+        "home:components/jquery-validation/localization/messages_fi.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_fi.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_fi.js"
+        },
+        "home:components/jquery-validation/localization/messages_fr.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_fr.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_fr.js"
+        },
+        "home:components/jquery-validation/localization/messages_gl.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_gl.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_gl.js"
+        },
+        "home:components/jquery-validation/localization/messages_he.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_he.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_he.js"
+        },
+        "home:components/jquery-validation/localization/messages_hr.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_hr.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_hr.js"
+        },
+        "home:components/jquery-validation/localization/messages_hu.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_hu.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_hu.js"
+        },
+        "home:components/jquery-validation/localization/messages_id.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_id.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_id.js"
+        },
+        "home:components/jquery-validation/localization/messages_is.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_is.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_is.js"
+        },
+        "home:components/jquery-validation/localization/messages_it.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_it.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_it.js"
+        },
+        "home:components/jquery-validation/localization/messages_ja.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_ja.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_ja.js"
+        },
+        "home:components/jquery-validation/localization/messages_ka.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_ka.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_ka.js"
+        },
+        "home:components/jquery-validation/localization/messages_kk.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_kk.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_kk.js"
+        },
+        "home:components/jquery-validation/localization/messages_ko.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_ko.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_ko.js"
+        },
+        "home:components/jquery-validation/localization/messages_lt.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_lt.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_lt.js"
+        },
+        "home:components/jquery-validation/localization/messages_lv.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_lv.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_lv.js"
+        },
+        "home:components/jquery-validation/localization/messages_my.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_my.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_my.js"
+        },
+        "home:components/jquery-validation/localization/messages_nl.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_nl.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_nl.js"
+        },
+        "home:components/jquery-validation/localization/messages_no.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_no.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_no.js"
+        },
+        "home:components/jquery-validation/localization/messages_pl.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_pl.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_pl.js"
+        },
+        "home:components/jquery-validation/localization/messages_pt_BR.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_pt_BR.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_pt_BR.js"
+        },
+        "home:components/jquery-validation/localization/messages_pt_PT.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_pt_PT.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_pt_PT.js"
+        },
+        "home:components/jquery-validation/localization/messages_ro.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_ro.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_ro.js"
+        },
+        "home:components/jquery-validation/localization/messages_ru.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_ru.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_ru.js"
+        },
+        "home:components/jquery-validation/localization/messages_si.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_si.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_si.js"
+        },
+        "home:components/jquery-validation/localization/messages_sk.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_sk.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_sk.js"
+        },
+        "home:components/jquery-validation/localization/messages_sl.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_sl.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_sl.js"
+        },
+        "home:components/jquery-validation/localization/messages_sr_lat.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_sr_lat.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_sr_lat.js"
+        },
+        "home:components/jquery-validation/localization/messages_sr.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_sr.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_sr.js"
+        },
+        "home:components/jquery-validation/localization/messages_sv.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_sv.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_sv.js"
+        },
+        "home:components/jquery-validation/localization/messages_th.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_th.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_th.js"
+        },
+        "home:components/jquery-validation/localization/messages_tj.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_tj.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_tj.js"
+        },
+        "home:components/jquery-validation/localization/messages_tr.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_tr.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_tr.js"
+        },
+        "home:components/jquery-validation/localization/messages_uk.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_uk.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_uk.js"
+        },
+        "home:components/jquery-validation/localization/messages_vi.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_vi.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_vi.js"
+        },
+        "home:components/jquery-validation/localization/messages_zh_TW.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_zh_TW.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_zh_TW.js"
+        },
+        "home:components/jquery-validation/localization/messages_zh.js": {
+            "uri": "/static/home/components/jquery-validation/localization/messages_zh.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/messages_zh.js"
+        },
+        "home:components/jquery-validation/localization/methods_de.js": {
+            "uri": "/static/home/components/jquery-validation/localization/methods_de.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/methods_de.js"
+        },
+        "home:components/jquery-validation/localization/methods_es_CL.js": {
+            "uri": "/static/home/components/jquery-validation/localization/methods_es_CL.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/methods_es_CL.js"
+        },
+        "home:components/jquery-validation/localization/methods_fi.js": {
+            "uri": "/static/home/components/jquery-validation/localization/methods_fi.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/methods_fi.js"
+        },
+        "home:components/jquery-validation/localization/methods_nl.js": {
+            "uri": "/static/home/components/jquery-validation/localization/methods_nl.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/methods_nl.js"
+        },
+        "home:components/jquery-validation/localization/methods_pt.js": {
+            "uri": "/static/home/components/jquery-validation/localization/methods_pt.js",
+            "type": "js",
+            "deps": [
+                "jquery",
+                "home:components/jquery-validation/jquery.validate.js"
+            ],
+            "subpath": "/static/home/components/jquery-validation/localization/methods_pt.js"
         }
     },
     "pkg": {

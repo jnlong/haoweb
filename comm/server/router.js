@@ -11,15 +11,15 @@ module.exports = function(router){
     // router.get('/some/:user', function(res, req){});
 
     // a restful api example
-    router.route('/book')
-        // PUT /comm/book
-        .put(router.action('book').put)
-        // GET /comm/book
-        .get(router.action('book'));
+    // router.route('/book')
+    //     // PUT /comm/book
+    //     .put(router.action('book').put)
+    //     // GET /comm/book
+    //     .get(router.action('book'));
 
-    router.route('/book/:id')
-        // GET /comm/book/1
-        .get(router.action('book').get)
-        // DELETE /comm/book/1
-        .delete(router.action('book').delete);
+    // router.route('/book/:id')
+    //     // GET /comm/book/1
+    //     .get(router.action('book').get)
+    //     // DELETE /comm/book/1
+    //     .delete(router.action('book').delete);
 };

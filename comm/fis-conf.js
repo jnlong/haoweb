@@ -8,29 +8,54 @@ fis.config.set('namespace', 'comm');
 // chrome下可以安装插件实现livereload功能
 // https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei
 fis.config.set('livereload.port', 35729);
+// 代码校验
+var eslintConf = {
+    ignoreFiles: ['static/common/**.js', 'js-conf.js'],
+    envs: ['browser', 'node'],
+    globals: ['$', 'Zepto', 'jQuery', 'iScroll', 'IScroll', 'Swiper', 'Modernizr', 'DocumentTouch', 'WebKitCSSMatrix', 'wiseHao123', 'define', 'G', 'scrollFallsNav', 'CG', 'CONFIG', 'sug', 'config'],
+    rules: {
+        'semi': [0],
+        'no-undef': [1],
+        'no-use-before-define': [0],
+        'no-unused-vars': [0],
+        'no-eval': [0],
+        'use-isnan': [2],
+        'valid-typeof': [2],
+        'no-unreachable': [1],
+        'no-dupe-args': [1],
+        'no-dupe-keys': [1]
+    }
+};
+fis.match('**.js', {
+    lint: fis.plugin('eslint', eslintConf)
+});
 
-if (fis.IS_FIS3) {
-    fis.media('debug').match('*', {
-        optimizer: null,
-        useHash: false,
-        deploy: fis.plugin('http-push', {
-            receiver: 'http://127.0.0.1:8085/yog/upload',
-            to: '/'
-        })
-    });
-    fis.media('debug-prod').match('*', {
-        deploy: fis.plugin('http-push', {
-            receiver: 'http://127.0.0.1:8085/yog/upload',
-            to: '/'
-        })
-    });
-}
-else {
-    fis.config.set('deploy', {
-        debug: {
-            to: '/',
-            // yog2 默认的部署入口，使用调试模式启动 yog2 项目后，这个入口就会生效。IP与端口请根据实际情况调整。
-            receiver: 'http://127.0.0.1:8085/yog/upload'
-        }
-    });
-}
+fis.match('/client/static/*/mod/**.{js,es6}', {
+    isMod: true
+});
+fis.match('/components/**.{js,es6}', {
+    isMod: true
+});
+
+fis.match('/client/widget/**.{js,es6}', {
+    packTo: 'widget.js'
+});
+fis.match('/client/widget/**.{css,less}', {
+    packTo: 'widget.css'
+});
+
+fis.media('debug').match('*', {
+    optimizer: null,
+    useHash: false,
+    deploy: fis.plugin('http-push', {
+        receiver: 'http://127.0.0.1:8085/yog/upload',
+        to: '/'
+    })
+});
+fis.media('debug-prod').match('*', {
+    deploy: fis.plugin('http-push', {
+        receiver: 'http://127.0.0.1:8085/yog/upload',
+        to: '/'
+    })
+});
+

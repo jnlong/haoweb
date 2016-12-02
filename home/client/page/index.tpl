@@ -1,8 +1,10 @@
-{% extends 'home:page/layout.tpl' %}
+{% extends 'comm:page/layout.tpl' %}
 {% block head_res %}
     {% require "home:static/css/index.less" %}
 {% endblock%}
 {% block body_content %}
+    {%require "comm:static/lib/iscroll.js"%}
+    
     {% widget "home:widget/head/head.tpl" %}
     {% widget "home:page/tpl/mz.tpl" with {data = mz} %}
     {% widget "home:widget/fenlei/fenlei.tpl" with {data = fenlei.fe} %}
@@ -29,5 +31,4 @@
             }
         });*/
     {% endscript %}
-
 {%endblock%}
