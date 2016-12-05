@@ -191,6 +191,7 @@
         "home:components/bootstrap/css/bootstrap.css": {
             "uri": "/static/home/components/bootstrap/css/bootstrap.css",
             "type": "css",
+            "extras": {},
             "subpath": "/static/home/components/bootstrap/css/bootstrap.css"
         },
         "home:components/bootstrap/dropdown.js": {
